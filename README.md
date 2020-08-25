@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Richard Liu
 
 <!--
 **richardliu1228/richardliu1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
