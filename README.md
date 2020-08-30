@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+- I'm a Computer Engineering major @ the University of Florida
+- I'm interested in Machine Learning, Deep Learning, Natural Language Processing and Algorithmic Design
 
 
 
