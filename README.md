@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 - I'm interested in Machine Learning, Deep Learning, Natural Language Processing and Algorithmic Design
 
 
+### If I'm wrong, then... what more could I lose?
 
 
