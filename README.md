@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 
 ### If I'm wrong, then... what more could I lose?
-[![Richard's stats](https://github-readme-stats.vercel.app/api?username=richardliu7&count_private=true&theme=buefy&hide=issues,contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
