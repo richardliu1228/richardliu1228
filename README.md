@@ -23,8 +23,9 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-- Computer Engineering major @ the University of Florida
-- Specific interests include Machine Learning, Deep Learning, Natural Language Processing, distributed systems and Algorithmic Design
+
+💻 Computer Engineering major @ the University of Florida
+🔭 Specific interests include Machine Learning, Deep Learning, Natural Language Processing, distributed systems and Algorithmic Design
 
 ### If I'm wrong, then... what more could I lose?
 
