@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 
 - Computer Engineering major @ the University of Florida
-- Specific interests include Machine Learning, Deep Learning, Natural Language Processing, distributed systems and Algorithmic Design
+
+<!-- Specific interests include Machine Learning, Deep Learning, Natural Language Processing, distributed systems and Algorithmic Design-->
 
 ### If I'm wrong, then... what more could I lose?
 
