@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- Computer Engineering major @ the University of Florida
+- Computer Engineering & Mathematics @ UF
 
 <!-- Specific interests include Machine Learning, Deep Learning, Natural Language Processing, distributed systems and Algorithmic Design-->
 
