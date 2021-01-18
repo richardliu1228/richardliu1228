@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 - Computer Engineering & Mathematics @ UF
 
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=richardliu7&count_private=true&hide=stars,issues&show_icons=true&theme=radical" />
+</a>
+
 <!-- Specific interests include Machine Learning, Deep Learning, Natural Language Processing, distributed systems and Algorithmic Design-->
 
 <!--### If I'm wrong, then... what more could I lose?-->
