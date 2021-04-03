@@ -28,13 +28,10 @@ Here are some ideas to get you started:
 </p>
 
 -->
-
-- 🏫    I am currently a Computer Science & Mathematics student at the University of Florida <br />
-- 🌱    I’m currently learning Deep Learning, and Natural Langauge Processing <br />
-
 ### Languages and Tools:
 <p align="left"> 
   <img title="Python" align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img title="C++" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
   <img title="Java" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img title="mySQL" align="left" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original.svg" alt="mySQL" width="40" height="40"/> 
   <img title="JavaScript" align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
@@ -48,7 +45,9 @@ Here are some ideas to get you started:
 <br />
 <p align="left">
 <br />
-
+  
+- 🏫    I am currently a Computer Science & Mathematics student at the University of Florida <br />
+- 🌱    I’m currently learning Deep Learning, and Natural Langauge Processing <br />
 - 💬    Ask me about **anything** <br />
 - 📫    How to reach me **richard.liu@ufl.edu** <br />
 <!-- ⏮️    Previously, I studied Biochemistry/Bioengineering-->
