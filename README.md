@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭    I am currently a Computer Science & Mathematics student at the University of Florida <br />
-- 🌱    I’m currently learning Machine Learning and Data Science <br />
+- 🏫    I am currently a Computer Science & Mathematics student at the University of Florida <br />
+- 🌱    I’m currently learning Deep Learning, and Natural Langauge Processing <br />
+<!-- ⏮️    Previously, I studied Biochemistry/Bioengineering-->
+
 
 <!--
 <a>
