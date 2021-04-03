@@ -28,7 +28,16 @@ Here are some ideas to get you started:
 </p>
 
 -->
-### Languages and Tools:
+
+  
+- 🏫    I am currently a Computer Science & Mathematics student at the University of Florida <br />
+- 🌱    I’m currently learning Deep Learning, and Natural Langauge Processing <br />
+- 💬    Ask me about **anything** <br />
+- 📫    How to reach me **richard.liu@ufl.edu** <br />
+<!-- ⏮️    Previously, I studied Biochemistry/Bioengineering-->
+
+
+#### Languages and Tools:
 <p align="left"> 
   <img title="Python" align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img title="C++" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
@@ -48,12 +57,7 @@ Here are some ideas to get you started:
 <br />
 <p align="left">
 <br />
-  
-- 🏫    I am currently a Computer Science & Mathematics student at the University of Florida <br />
-- 🌱    I’m currently learning Deep Learning, and Natural Langauge Processing <br />
-- 💬    Ask me about **anything** <br />
-- 📫    How to reach me **richard.liu@ufl.edu** <br />
-<!-- ⏮️    Previously, I studied Biochemistry/Bioengineering-->
+
 
 
 <!--
