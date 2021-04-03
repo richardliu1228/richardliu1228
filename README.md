@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 - 🏫    I am currently a Computer Science & Mathematics student at the University of Florida <br />
 - 🌱    I’m currently learning Deep Learning, and Natural Langauge Processing <br />
+- 💬    Ask me about **anything** <br />
+- 📫    How to reach me **richard.liu@ufl.edu** <br />
 <!-- ⏮️    Previously, I studied Biochemistry/Bioengineering-->
 
 
