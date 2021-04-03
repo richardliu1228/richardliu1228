@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -23,8 +23,9 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+-->
 
-- Computer Engineering & Mathematics @ UF
+Computer Science & Mathematics @ the University of Florida
 <!--
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=richardliu7&count_private=true&hide=stars,issues&show_icons=true&theme=radical" />
