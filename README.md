@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 -->
 
-Computer Science & Mathematics @ the University of Florida
+- 🔭    I am currently a Computer Science & Mathematics student at the University of Florida <br />
+- 🌱    I’m currently learning Machine Learning and Data Science <br />
+
 <!--
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=richardliu7&count_private=true&hide=stars,issues&show_icons=true&theme=radical" />
